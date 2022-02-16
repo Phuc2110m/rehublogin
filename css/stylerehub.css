@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-image: url(../images/backfull.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ctnrehub{
+    width: 420px;
+    height: 600px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;  
+    background-image: url(../images/back1.png); 
+}
+.loginFrom{
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h1{ 
+    background-image: url(../images/kinglogo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    text-indent: -1000%;
+    height: 75px;
+    line-height: 75px;
+    width: 117px;
+    margin: 0 auto 0 auto;
+    padding: 30px 10px 20px 10px;;
+}
+h2{
+    color: #fff;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  margin: 0 0 23px 0;
+}
+input{
+    width: 200px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+button{
+    width: 200px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: orange;
+}
+.socials{
+    background-color: white;
+}
